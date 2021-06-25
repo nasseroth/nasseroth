@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Formas de Contato: 
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548999047960&text=Ol%C3%A1)](https://api.whatsapp.com/send?phone=5548999047960&text=Ol%C3%A1)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nothman09@gmail.com)](mailto:nothman09@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nasser.zleed/)](https://www.instagram.com/nasser.zleed/)
