@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá a todos 👋
+Sou um entusiasta de tecnologia apaixonado por programação e aprendizado contínuo. Adoro explorar novas tecnologias e encontrar soluções criativas para problemas complexos.
 
-<!--
-**nasseroth/nasseroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nasseroth&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nasseroth&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+### Principais Linguagens:
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasser-othman/)](https://www.linkedin.com/in/nasser-othman/)
